@@ -13,15 +13,3 @@ Pacman Simulator for IE Digital Coding Challenge
 <br> After download the project, install the dependencies for the project
 <br> then running the Main Class (pacman/src/main/java/Main) to start the simulation
 
-<br>
-<br>
-<br>After the simulation start, it will show the options below:
-<br>
-<br>=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-<br>||         WELCOME TO PACMAN SIMULATOR        ||
-<br>================================================
-<br>|	(1) Place Pacman         |
-<br>|	(2) Help                 |
-<br>|	(3) Exit Simulator       |
-<br>==================================================
-<br>Please choose the command : 
