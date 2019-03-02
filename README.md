@@ -1,4 +1,4 @@
-# pacman
+# Pacman Simulator
 Pacman Simulator for IE Digital Coding Challenge
 
 Maven Project
