@@ -20,8 +20,8 @@ Pacman Simulator for IE Digital Coding Challenge
 <br>=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 <br>||         WELCOME TO PACMAN SIMULATOR        ||
 <br>================================================
-<br>|	(1) Place Pacman                             |
-<br>|	(2) Help                                     |
-<br>|	(3) Exit Simulator                           |
+<br>|	(1) Place Pacman         |
+<br>|	(2) Help                 |
+<br>|	(3) Exit Simulator       |
 <br>==================================================
 <br>Please choose the command : 
